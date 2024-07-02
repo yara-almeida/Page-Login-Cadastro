@@ -1,4 +1,8 @@
+<span align="center">
+
 ### Página de Cadastro/Login feita através das vídeo aulas do curso Full Stack do <a href="http://sujeitoprogramador.com" target="_blank">Sujeito Programador</a>
+</span>
+
 <span align="center">
   
 ### Página responsiva!
